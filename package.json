@@ -1,5 +1,5 @@
 {
-  "name": "HUNCHO-MD",
+  "name": "grt",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js",
@@ -9,14 +9,6 @@
     "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
-  "keywords": [
-    "bot",
-    "Baileys",
-    "BMW-Md",
-    "whatsapp",
-    "whatsapp-bot",
-    "ibrahimadams"
-  ],
   "author": "ibrahimaitech",
   "license": "ISC",
   "dependencies": {
